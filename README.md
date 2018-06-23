@@ -1,5 +1,6 @@
 # Deep learning tutorials
 0)What,where and why of ML
+
 1)DL terminology (cost fn, learning rate, gradient descent, regularisation, activation)
 
 2)Implementing a 1 layer network in Tensorflow
