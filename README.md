@@ -1,7 +1,8 @@
 # Deep learning tutorials
 1)DL terminology (cost fn, learning rate, gradient descent, regularisation, activation)
 
-2 - TF basics (constants, placeholders, variables, session)
+2)Implementing a 1 layer network in Tensorflow
+  - TF basics (constants, placeholders, variables, session)
   - Simple linear model (learning the slope and constant)  
   - 1 layer model on mnist
   
