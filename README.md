@@ -19,3 +19,5 @@
  - Hyper parameter tuning by Adding more layers, random weight initialisation, various activation fns and optimisers 
 
 4)Tackling a real world problem wherein we need to distinguish mines from rocks
+
+5)Improving upon the ANN bulit for mnist by adding convolutional layers
