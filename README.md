@@ -21,3 +21,9 @@
 4)Tackling a real world problem wherein we need to distinguish mines from rocks
 
 5)Improving upon the ANN bulit for mnist by adding convolutional layers
+- Why the need of CNNs
+- Dimensionality reduction with Convolutional layers, pooling layers in a CNN
+- Came across Hyperparmaeters like depth, window size, stride and padding
+- Added convolutional layers to fully connected layers and modeled for mnist
+
+6)Other High level frameworks for DL
