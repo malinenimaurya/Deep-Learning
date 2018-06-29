@@ -35,4 +35,4 @@
 - Trained another CNN for fashion dataset
 
 8)Excellent article on how the Conv nets evolved and important developments in computer vision. Check it out
-https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html (reading assign ::smirk:)
+https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html (reading assign :smirk:)
