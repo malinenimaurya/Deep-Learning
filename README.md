@@ -26,4 +26,11 @@
 - Came across Hyperparmaeters like depth, window size, stride and padding
 - Added convolutional layers to fully connected layers and modeled for mnist
 
-6)Other High level frameworks for DL
+6)Using High level framework keras for DL
+- Implemented a DNN for mnist in keras
+- Tackled a kaagle problem( breast cancer dataset)
+
+7)CNN in keras
+- Reimplemented CNN for mnist in keras
+- Trained another CNN for fashion dataset
+
