@@ -36,3 +36,7 @@
 
 8)Excellent article on how the Conv nets evolved and important developments in computer vision. Check it out
 https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html (reading assign :smirk:)
+
+9)Discussed resnet, vgg and other architectures for object identification and implemented them
+
+10)Using the above pretrained networks to do transfer learning.
