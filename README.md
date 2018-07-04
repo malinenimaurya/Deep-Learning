@@ -38,5 +38,11 @@
 https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html (reading assign :smirk:)
 
 9)Discussed resnet, vgg and other architectures for object identification and implemented them
+- Building blocks of vgg,googlenet,resnet and why they work
 
-10)Using the above pretrained networks to do transfer learning.
+10)Using pretrained networks to do transfer learning.
+- Built a model on cifar10 for the first 5 classes and used it to learn the other 5 classes
+- Discussed the advantages of transfer learning
+- How the backpropagation works
+- Why the need of validation dataset, public and private leaderboards in datascience competitions
+- Various activation functions and their associated advantages and disadvantages (vanishing gradient, dead neurons)
