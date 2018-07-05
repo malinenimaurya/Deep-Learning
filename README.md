@@ -46,3 +46,5 @@ https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.
 - How the backpropagation works
 - Why the need of validation dataset, public and private leaderboards in datascience competitions
 - Various activation functions and their associated advantages and disadvantages (vanishing gradient, dead neurons)
+
+11)Data augmentation techniques
