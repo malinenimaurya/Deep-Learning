@@ -48,3 +48,5 @@ https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.
 - Various activation functions and their associated advantages and disadvantages (vanishing gradient, dead neurons)
 
 11)Data augmentation techniques
+
+12) & 13) Quizzes
