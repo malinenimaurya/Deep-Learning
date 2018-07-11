@@ -48,5 +48,8 @@ https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.
 - Various activation functions and their associated advantages and disadvantages (vanishing gradient, dead neurons)
 
 11)Data augmentation techniques
+- Scaling, translation, flipping, various kinds of rotations, different kinds of noise, perspective transform, advanced techniques like cycle GANs.
 
-12) & 13) Quizzes
+12) & 13) Quizzes 
+- Set of 4 quizzes covering all the key concepts covered till now.
+- Added gamification through leaderboards and immediate feedback in the form of points for each question and discussed the concept involved
