@@ -54,3 +54,11 @@ https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.
 - Set of 4 quizzes covering all the key concepts covered till now.
 - Added gamification through leaderboards and immediate feedback in the form of points for each question and discussed the concept involved
 - Also posed few open ended questions and were discussed
+
+14)Bird recognition case study
+- Discussed about the bias vs variance tradeoff, how to split data, combining multiple criteria to optimiise one
+- Bayes error vs Human error
+
+15)Auntonomous driving case study
+- Importance of Error analysis and fast prototyping, handling incorrect labels
+- Transfer learning, Multi task learning and end to end learning
