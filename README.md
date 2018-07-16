@@ -56,7 +56,7 @@ https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.
 - Also posed few open ended questions and were discussed
 
 14)Bird recognition case study
-- Discussed about the bias vs variance tradeoff, how to split data, combining multiple criteria to optimiise one
+- Discussed about the bias vs variance tradeoff, how to split data, combining multiple criteria to optimise on one metric
 - Bayes error vs Human error
 
 15)Auntonomous driving case study
