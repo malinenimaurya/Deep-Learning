@@ -68,3 +68,5 @@ https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.
 - Implemented models from Algorithmia and Clarifai (Market places for algorithms made as openly available apis)
 - Discussed current state of the art techniques and applications in speech and text processing(NLP), image and video analysis(Computer vision)
 
+17)Fun and open source AI projects
+- Discussed the ideas behind projects like Teachable machine,music generation, inceptionism, magenta, neural storyteller, CycleGans image manipuations etc and many other projects
