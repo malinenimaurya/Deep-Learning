@@ -1,4 +1,4 @@
-# Deep learning tutorials
+# Deep learning Sessions
 0)What,where and why of ML
 - Learnt about the 5 types of problems that Machine Learning can solve
 - Multiple use cases for each problem type
