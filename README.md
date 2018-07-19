@@ -20,7 +20,7 @@
 
 4)Tackling a real world problem wherein we need to distinguish mines from rocks
 
-5)Improving upon the ANN bulit for mnist by adding convolutional layers
+5)Improving upon the ANN built for mnist by adding convolutional layers
 - Why the need of CNNs
 - Dimensionality reduction with Convolutional layers, pooling layers in a CNN
 - Came across Hyperparmaeters like depth, window size, stride and padding
@@ -52,7 +52,7 @@ https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.
 
 12) & 13) Quizzes 
 - Set of 4 quizzes covering all the key concepts covered till now.
-- Added gamification through leaderboards and immediate feedback in the form of points for each question and discussed the concept involved
+- Added gamification through leaderboards and immediate feedback in the form of points for each question and discussed the concepts involved
 - Also posed few open ended questions and were discussed
 
 14)Bird recognition case study
@@ -62,3 +62,9 @@ https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.
 15)Auntonomous driving case study
 - Importance of Error analysis and fast prototyping, handling incorrect labels
 - Transfer learning, Multi task learning and end to end learning
+
+16)Building AI through APIs
+- Checked out few APIs from microsoft(emotion), google(vision), amazon etc
+- Implemented models from Algorithmia and Clarifai (Market places for algorithms made as openly available apis)
+- Discussed current state of the art techniques and applications in speech and text processing(NLP), image and video analysis(Computer vision)
+
